@@ -48,6 +48,12 @@ button:hover{
     color: #fff;
 }
 
+.clear:hover,
+.operator:hover,
+.equals:hover{
+    color: black;
+}
+
 .operator{
     background-color: #0074d9;
     color: #fff;
